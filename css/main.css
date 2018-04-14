@@ -1441,7 +1441,7 @@ a.menu-toggle {
 	height: 660px;
 	background-image: url("../images/Main_logo.png");
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center top;
 	-webkit-background-size: contain;
 	-moz-background-size: contain;
 	background-size: contain;
