@@ -112,7 +112,7 @@
 	      controlNav: true,
 	      directionNav: true,
 	      smoothHeight: true,
-	      slideshowSpeed: 7000,
+	      slideshowSpeed: 8000,
 	      animationSpeed: 600,
 	      randomize: false,
 	      touch: true,
